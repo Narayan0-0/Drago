@@ -50,7 +50,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/drago.git
+   git clone https://github.com/Narayan0-0/drago.git
    ```
 2. Navigate to the project folder:
 
@@ -65,24 +65,9 @@ To run this project locally:
 
 ---
 
-## 📷 Screenshots
-
-![DRAgo Products Preview](./7ff5a2dd-39b9-4f62-8b28-91a635889965.png)
-
----
-
-## 📬 Contact
-
-If you’d like to collaborate or have feedback, feel free to reach out!
-
-* **Email**: [info@example.com](mailto:info@example.com)
-* **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🪄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available on github.
 
 ---
 
